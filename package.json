@@ -1,0 +1,14 @@
+{
+  "name": "4pet.social",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:4pet-social/4pet.social.git",
+  "author": "Cuong Duy Nguyen <103cuong@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "live-server --port=3000 --host=127.0.0.1 ./src"
+  },
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
