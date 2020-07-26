@@ -233,7 +233,7 @@ p {
 
 .section-heading > h2 {
     font-weight: 300;
-    color: #5b32b4;
+    color: #FF9EB5;
     font-size: 48px;
     margin: 0;
 }
@@ -378,7 +378,7 @@ p {
     color: #fff;
     font-weight: 500;
     display: inline-block;
-    border: 2px solid #a883e9;
+    border: 2px solid #FF9EB5;
     height: 50px;
     min-width: 178px;
     line-height: 46px;
@@ -398,7 +398,7 @@ p {
 /* stcicky css */
 
 .header_area.sticky {
-    background-color: #884bdf;
+    background-color: #FF9EB5;
     -webkit-box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
             box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
     height: 70px;
@@ -424,7 +424,7 @@ p {
 -------------------------- */
 
 .wellcome_area {
-    background-image: url(img/bg-img/welcome-bg.png);
+    background-image: url(img/bg-img/welcome-bg.jpg);
     height: 900px;
     position: relative;
     z-index: 1;
@@ -465,7 +465,7 @@ p {
 }
 
 .get-start-area .email {
-    background: #9572e8;
+    background: #FF9EB5;
     height: 50px;
     max-width: 260px;
     border: none;
@@ -552,7 +552,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #FF9EB5;
 }
 
 .single-icon {
@@ -561,7 +561,7 @@ p {
 
 .single-special > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #FF9EB5;
     margin-bottom: 15px;
 }
 
@@ -576,7 +576,7 @@ p {
 }
 
 .special_description_content > h2 {
-    color: #5b32b4;
+    color: #FF9EB5;
     font-size: 48px;
     margin-bottom: 30px;
 }
@@ -617,6 +617,7 @@ p {
     -webkit-box-pack: center;
     -ms-flex-pack: center;
     justify-content: center;
+    background-color: #FF9EB5;
 }
 
 .app-download-btn.active a,
@@ -680,7 +681,7 @@ p {
 
 .single-feature > h5 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #FF9EB5;
 }
 
 .single-feature > p {
@@ -860,7 +861,7 @@ p {
 }
 
 .single-price-plan .package-plan > h5 {
-    color: #5b32b4;
+    color: #FF9EB5;
     font-size: 18px;
 }
 
@@ -921,7 +922,7 @@ p {
 -------------------------- */
 
 .clients-feedback-area .client-name > h5 {
-    color: #5b32b4;
+    color: #FF9EB5;
     font-size: 22px;
     margin-top: 5px;
 }
@@ -1065,7 +1066,7 @@ p {
 }
 
 .get-started-button > a:hover {
-    background: #5b32b4;
+    background: #FF9EB5;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1093,7 +1094,7 @@ p {
 
 .member-text > h4 {
     font-size: 22px;
-    color: #5b32b4;
+    color: #FF9EB5;
 }
 
 .member-text > p {
@@ -1170,7 +1171,7 @@ p {
 .address-text > p > span,
 .phone-text > p > span,
 .email-text > p > span {
-    color: #5b32b4;
+    color: #FF9EB5;
 }
 
 .footer-contact-area .line-shape {
@@ -1211,7 +1212,7 @@ p {
 }
 
 .btn.submit-btn:hover {
-    background: #5b32b4;
+    background: #FF9EB5;
     color: #fff;
     -webkit-transition-duration: 500ms;
     -o-transition-duration: 500ms;
@@ -1231,7 +1232,7 @@ p {
 -------------------------- */
 
 .footer-text > h2 {
-    color: #5b32b4;
+    color: #FF9EB5;
     font-size: 72px;
     font-weight: 700;
 }

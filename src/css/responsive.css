@@ -45,7 +45,7 @@
     #ca-navbar {
         padding: 30px;
         border-radius: 3px;
-        background-color: #5b32b4;
+        background-color: #FF9EB5;
         text-align: left;
     }
     .sing-up-button {
@@ -89,7 +89,7 @@
     .sing-up-button > a {
         margin-top: 4px;
         display: inline-block;
-        border: 2px solid #a883e9;
+        border: 2px solid #FF9EB5;
         height: 40px;
         min-width: 160px;
         line-height: 36px;
@@ -127,7 +127,7 @@
     #ca-navbar {
         padding: 20px;
         border-radius: 3px;
-        background-color: #5b32b4;
+        background-color: #FF9EB5;
         text-align: left;
     }
     .sing-up-button {
