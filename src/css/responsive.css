@@ -53,9 +53,7 @@
         text-align: left;
     }
     .welcome-thumb {
-        width: 50%;
-        bottom: -100px;
-        right: 0;
+        visibility: hidden;
     }
     .wellcome-heading {
         margin-bottom: 70px;
@@ -148,9 +146,7 @@
         max-width: 100%;
     }
     .welcome-thumb {
-        width: 90%;
-        bottom: -74px;
-        right: 0;
+        visibility: hidden;
     }
     .logo_area > a > h2 {
         font-size: 40px;
@@ -234,8 +230,7 @@
         font-size: 70px;
     }
     .welcome-thumb {
-        bottom: -109px;
-        width: 75%;
+        visibility: hidden;
     }
     .wellcome-heading {
         margin-bottom: 50px;
